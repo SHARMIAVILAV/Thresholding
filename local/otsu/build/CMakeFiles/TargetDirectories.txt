@@ -1,0 +1,3 @@
+/home/sharmi/Downloads/Thresholding/local/otsu/build/CMakeFiles/rebuild_cache.dir
+/home/sharmi/Downloads/Thresholding/local/otsu/build/CMakeFiles/edit_cache.dir
+/home/sharmi/Downloads/Thresholding/local/otsu/build/CMakeFiles/otsu.dir
